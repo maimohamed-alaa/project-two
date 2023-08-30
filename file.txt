@@ -4,3 +4,4 @@ hello kamal
 hello manal
 hello fares
 git status
+git commit 
