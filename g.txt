@@ -1,8 +1,7 @@
 hello kamal 
-hello ahmed
-hello fares
+hello Fares
 hello mai
-hello alaa
+hello Alaa
 hello manal
 hello mahmoud
-git log
+git loG
