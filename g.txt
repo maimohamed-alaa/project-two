@@ -5,3 +5,4 @@ hello mai
 hello alaa
 hello manal
 hello mahmoud
+git log
