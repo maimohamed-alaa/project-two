@@ -23,9 +23,9 @@ git status
 #### leasons image :
 
  <div>
- <img src="https://github.com/maimohamed-alaa/project-two/assets/139707788/41a30af1-d843-4475-b10b-4c63a536db10" width="50%">
+ <img src="https://github.com/maimohamed-alaa/project-two/assets/139707788/41a30af1-d843-4475-b10b-4c63a536db10" width="40%" hieght="40%">
  </div>
 
  #### git video :
 
- [<img src="https://github.com/maimohamed-alaa/project-two/assets/139707788/41a30af1-d843-4475-b10b-4c63a536db10" width="500">](https://github.com/adriantwarog)
+ [<img src="https://github.com/maimohamed-alaa/project-two/assets/139707788/41a30af1-d843-4475-b10b-4c63a536db10" width="40%" hieght="40%">](https://github.com/adriantwarog)
